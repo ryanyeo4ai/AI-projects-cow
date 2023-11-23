@@ -18,8 +18,8 @@ SSNET_SAVE_DIR = SSNET_ROOT_DIR + '/data'
 #db conf
 #DB_HOST = '10.0.0.23'
 DB_HOST = 'localhost'
-DB_USER = 'ssnet'
-DB_PASS = 'how-to-install-mariadb-on-ubuntu-20-04'
+DB_USER = ''
+DB_PASS = ''
 DB_PORT = 3306
 DATABASE = 'ssnet'
 CCTV_EVENT_TABLE = 'cctv_event'
