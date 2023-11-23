@@ -10,8 +10,8 @@ class ServerAPI:
     base_url: str = 'https://web.ssnetworks.kr/serverapi' #가산서버
     # base_url: str = 'https://hsg.ssnetworks.kr/serverapi' #횡성서버
     bucket_name: str = 'ssnetworks'
-    aws_access_key_id = "AKIA6AJU62EQ7XLJNJ6C"
-    aws_secret_access_key = "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"
+    aws_access_key_id = ""
+    aws_secret_access_key = ""
     region_name = "ap-northeast-2"
 
     session = boto3.Session(
